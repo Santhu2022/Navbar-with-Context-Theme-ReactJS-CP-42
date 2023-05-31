@@ -1,0 +1,23 @@
+.not-found-image {
+  width: 200px;
+}
+.not-found-heading {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 28px;
+}
+.dark-theme-not-found-heading {
+  color: #f8fafc;
+}
+.not-found-description {
+  font-family: 'Roboto';
+  color: #64748b;
+  max-width: 90%;
+  text-align: center;
+}
+.not-found-description-dark {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  max-width: 90%;
+  text-align: center;
+}

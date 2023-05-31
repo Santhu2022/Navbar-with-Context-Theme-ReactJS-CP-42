@@ -1,0 +1,22 @@
+.page-content-container {
+  background-color: #ffffff;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dark-theme-page{
+    background-color: #000000;
+}
+.page-image {
+  width: 150px;
+}
+
+.page-heading {
+  font-family: 'Roboto';
+  color: #171f46;
+}
+.dark-theme-heading {
+  color: #f8fafc;
+}
